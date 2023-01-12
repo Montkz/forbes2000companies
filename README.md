@@ -1,4 +1,4 @@
-# forbs2000companies
+# forbes2000companies
 
 Forbes 2000: An In-Depth Analysis
 
